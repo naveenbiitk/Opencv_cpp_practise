@@ -1,0 +1,8 @@
+Mapping and navigation
+1.https://github.com/intel-ros/realsense
+2.https://people.ece.cornell.edu/land/courses/eceprojectsland/STUDENTPROJ/2017to2018/sl2462/project_68_report.pdf
+3.http://www.i6.in.tum.de/pub/Main/Hub/Bachelorarbeit.pdf
+4.http://www.clearpathrobotics.com/assets/guides/ros/ROS%20Navigation%20Basics.html
+5.https://software.intel.com/sites/products/realsense/slam/developer_guide.html
+6.https://github.com/ethz-asl/segmap
+7.
